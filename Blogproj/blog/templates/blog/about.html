@@ -1,0 +1,14 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+    <div class="container" style="background: white; padding: 20px; margin-top: 10px; border-radius: 20px;">
+        <h1>Welcome to Our Blog!</h1>
+        <p>We're thrilled to have you join us on our blogging journey. Here at [Your Blog Name], we're dedicated to sharing insightful content, engaging stories, and valuable information with our readers.</p>
+        <p>Our blog is a space where you can explore a wide range of topics, from technology and science to lifestyle and culture. Whether you're a seasoned expert or just curious about the world around you, there's something here for everyone.</p>
+        <p>Expect to find thought-provoking articles, helpful guides, and inspiring narratives that will keep you coming back for more. Our team of writers is passionate about delivering high-quality content that informs, entertains, and sparks meaningful conversations.</p>
+        <p>So, grab a cup of coffee, make yourself comfortable, and dive into the wonderful world of our blog. We hope you enjoy your stay and find inspiration in the words we share.</p>
+        <p>Happy reading!</p>
+
+        <a href="{% url 'blog-home' %}" class="btn btn-primary">Go to Trending Posts</a>
+    </div>
+{% endblock content %}
