@@ -4,18 +4,18 @@ This repository contains the source code and documentation for a Python Django B
 
 # Features
 
-#•	Post Management: Users can easily add, edit, and delete blog posts.
-#•	User Authentication: Secure user registration and login functionality.
-#•	Responsive Design: Ensure optimal viewing experiences across devices.
-#•	Commenting System: Enable discussions with readers through comment sections.
-#•	User-Friendly Interface: Intuitive design for smooth navigation and interaction.
+•	Post Management: Users can easily add, edit, and delete blog posts.
+•	User Authentication: Secure user registration and login functionality.
+•	Responsive Design: Ensure optimal viewing experiences across devices.
+•	Commenting System: Enable discussions with readers through comment sections.
+•	User-Friendly Interface: Intuitive design for smooth navigation and interaction.
 
 # Technologies Used
 
-#•	Backend Framework: Built using Django for robust server-side functionality.
-#•	Frontend Design: Utilizes HTML, CSS, and JavaScript for frontend development.
-#•	Database: PostgreSQL is used as the database management system for data storage.
-#•	Deployment: Easily deployable on platforms like Heroku for online accessibility.
+•	Backend Framework: Built using Django for robust server-side functionality.
+•	Frontend Design: Utilizes HTML, CSS, and JavaScript for frontend development.
+•	Database: PostgreSQL is used as the database management system for data storage.
+•	Deployment: Easily deployable on platforms like Heroku for online accessibility.
 
 # Getting Started
 
@@ -30,10 +30,10 @@ To run the Python Django Blog Application locally, follow these steps:
 # Folder Structure
 
 The repository follows a specific folder structure:
-#•	blog/: Contains the source code of the application.
-#•	users/: Includes user-related functionalities like authentication and profile management.
-#•	templates/: Contains HTML templates for rendering frontend views.
-#•	static/: Stores static files such as CSS, JavaScript, and images.
+•	blog/: Contains the source code of the application.
+•	users/: Includes user-related functionalities like authentication and profile management.
+•	templates/: Contains HTML templates for rendering frontend views.
+•	static/: Stores static files such as CSS, JavaScript, and images.
 
 # Contributing
 
