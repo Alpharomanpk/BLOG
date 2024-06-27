@@ -15,7 +15,6 @@ This repository contains the source code and documentation for a Python Django B
 •	Backend Framework: Built using Django for robust server-side functionality.
 •	Frontend Design: Utilizes HTML, CSS, and JavaScript for frontend development.
 •	Database: PostgreSQL is used as the database management system for data storage.
-•	Deployment: Easily deployable on platforms like Heroku for online accessibility.
 
 # Getting Started
 
